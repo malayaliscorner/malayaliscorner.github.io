@@ -264,8 +264,8 @@ section.features .device-container {
 }
 
 section.features .feature-item {
-  padding-top: 15px;
-  padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   text-align: center;
 }
 
