@@ -1,4 +1,4 @@
-# Malayalis Corner
+# Malayalify SoftLab
 
 Android software developing venture focused on quality entertainment apps for Keralites around the globe.We redefine the means of "Chali" by preserving Malayali's own cultural interests and good old cinematic comedies on cyber space.
 
